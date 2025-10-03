@@ -1,19 +1,67 @@
-## dApp
+# Decentralized Real Estate Rental dApp
 
-Decentralized Real Estate Rental dApp: A Microservices-Based Platform Integrating Web3, Spring
-Boot, Angular, and DevOps Practices.
-This project proposes the development of a decentralized application (dApp) specialized in real
-estate rentals, enabling peer-to-peer property listings and leasing on the Ethereum blockchain for
-secure, transparent, and intermediary-free transactions. The application will utilize a microservices
-architecture with Spring Boot for the backend, Angular for the frontend, and Hardhat for smart
-contract development. To ensure scalability, reliability, and efficient deployment, the project
-incorporates DevOps practices including CI/CD pipelines with GitHub and Jenkins, infrastructure
-as code (IaC) with Terraform on AWS, containerization with Docker, orchestration with Kubernetes,
-and monitoring with Prometheus and Grafana.
-The project will be executed by a team of 5 student engineers: Backend Engineer, Frontend
-Engineer, Cloud Engineer, DevOps Engineer, and Blockchain/Smart Contract Engineer. This
-collaborative effort aims to demonstrate the integration of modern web development, blockchain
-technology, and cloud-native practices in the real estate sector
+A Microservices-Based, Blockchain-Powered Real Estate Rental Platform  
+Built with **Ethereum, Spring Boot, Angular, and DevOps Best Practices**
+
+---
+
+## Overview
+
+This project presents a decentralized application (dApp) designed for **peer-to-peer real estate rentals**. By leveraging **Ethereum blockchain**, users can list, lease, and manage rental properties **without intermediaries**, ensuring transparent, secure, and trustless transactions.
+
+The system adopts a **microservices architecture** powered by:
+
+- **Spring Boot** for backend RESTful services  
+- **Angular** for the frontend user interface  
+- **Hardhat + Solidity** for blockchain smart contracts  
+- **AWS + Terraform** for infrastructure provisioning  
+- **Docker + Kubernetes** for container orchestration  
+- **CI/CD with GitHub & Jenkins**, monitoring with **Prometheus + Grafana**
+
+---
+
+## Team & Roles
+
+| Role                          | Responsibilities                                                                 |
+|------------------------------|----------------------------------------------------------------------------------|
+| **Backend Engineer**       | Develop Spring Boot microservices, design REST APIs, integrate DB & blockchain. |
+| **Frontend Engineer**      | Build Angular UI components, handle Web3 integrations, ensure responsive UX.   |
+| **Cloud Engineer**         | Provision AWS infrastructure using Terraform, handle media storage & security. |
+| **DevOps Engineer**        | Build CI/CD pipelines, containerize with Docker, manage Kubernetes, monitoring. |
+| **Blockchain Engineer**    | Develop & test smart contracts, manage Web3 integration, deploy to testnets.    |
+
+---
+
+## Tech Stack
+
+### Frontend
+- Angular  
+- Node.js  
+- Leaflet.js (for interactive maps)  
+- ethers.js / Web3.js  
+- MetaMask  
+- Karma (testing)
+
+### Backend
+- Spring Boot (Java 17 / OpenJDK)  
+- REST APIs  
+- Maven  
+- JUnit (testing)  
+- Web3j (blockchain integration)
+
+### Blockchain
+- Ethereum (Testnet)  
+- Hardhat  
+- Solidity
+- Slither (smart contract static analysis)
+
+### DevOps & Cloud
+- Docker & Docker Compose  
+- Kubernetes (Minikube for local dev)  
+- Terraform (IaC)  
+- AWS (EC2, S3, IAM, VPC)  
+- GitHub Actions / Jenkins (CI/CD)  
+- Prometheus & Grafana (Monitoring)
 
 <!--
 
