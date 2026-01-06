@@ -5,7 +5,7 @@ A Microservices-Based, Blockchain-Powered Real Estate Rental Platform
 Built with **Ethereum, Spring Boot, Next.js, and DevOps Best Practices**
 
 <div align="center">
-  <img src="https://github.com/DApp-for-Real-Estate-Rental-on-Ethereum/.github/blob/main/profile/projet_overview.png" alt="Project Overview" width="100%" style="border-radius: 10px; margin-bottom: 20px;">
+  <img src="https://github.com/DApp-for-Real-Estate-Rental-on-Ethereum/.github/blob/main/profile/projet_overview_finale.png" alt="Project Overview" width="100%" style="border-radius: 10px; margin-bottom: 20px;">
 </div>
 
 ---
